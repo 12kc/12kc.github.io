@@ -1,1 +1,3 @@
-# 12kc.github.io
+# kalanii.me
+My personal website
+Made with Hugo
